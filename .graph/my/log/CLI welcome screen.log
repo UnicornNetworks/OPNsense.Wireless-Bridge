@@ -1,0 +1,32 @@
+(root@10.0.1.1) Password:
+Last login: Sat Aug 19 21:42:09 2023
+----------------------------------------------
+|      Hello, this is OPNsense 23.1          |         @@@@@@@@@@@@@@@
+|                                            |        @@@@         @@@@
+| Website:	https://opnsense.org/        |         @@@\\\   ///@@@
+| Handbook:	https://docs.opnsense.org/   |       ))))))))   ((((((((
+| Forums:	https://forum.opnsense.org/  |         @@@///   \\\@@@
+| Code:		https://github.com/opnsense  |        @@@@         @@@@
+| Twitter:	https://twitter.com/opnsense |         @@@@@@@@@@@@@@@
+----------------------------------------------
+
+*** OPNsense.localdomain: OPNsense 23.1 ***
+
+ LAN (re0)       -> v4: 10.0.1.1/24
+ WAN (ath0_wlan1) -> v4: 192.168.1.144/24
+
+ HTTPS: SHA256 6B E1 D6 3A 12 DC AC 17 93 8E CF 20 DF 32 70 7D
+               E2 4C 08 66 32 F4 B0 65 4C 27 CB C1 ED AB 41 E0
+ SSH:   SHA256 0jN0Pe6vwzcUBcr7WVukgrJwSRYi+HkOQeIUXU1RNoE (ECDSA)
+ SSH:   SHA256 RvUwjMFBqLtJH//+YksVY6/uUo8uJH6Pzn5gWpxXE+U (ED25519)
+ SSH:   SHA256 8dY8rs9GL4TxBUeS5WuOVpfEn0v5QJLL9D0ud+Xdxgk (RSA)
+
+  0) Logout                              7) Ping host
+  1) Assign interfaces                   8) Shell
+  2) Set interface IP address            9) pfTop
+  3) Reset the root password            10) Firewall log
+  4) Reset to factory defaults          11) Reload all services
+  5) Power off system                   12) Update from console
+  6) Reboot system                      13) Restore a backup
+
+Enter an option:
